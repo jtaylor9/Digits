@@ -1,4 +1,4 @@
-# digits
+# Digits
 
 Implements a sample address book.
 
@@ -24,10 +24,10 @@ The home page for the application looks like this:
 ![](https://raw.githubusercontent.com/justgilyim/digits/master/doc/digitsHome.PNG)
 
 To list all of the contacts, login and then go to the List Contacts page:
-![](https://raw.githubusercontent.com/justgilyim/digits/master/doc/digitsList.PNG)
+![](https://raw.githubusercontent.com/jtaylor9/Digits/master/doc/ListContacts.PNG)
 
 To add a contact, go to the Add Contacts page:
-![](https://raw.githubusercontent.com/justgilyim/digits/master/doc/digitsADD.PNG)
+![](https://raw.githubusercontent.com/jtaylor9/Digits/master/doc/AddContact.PNG)
 
 # Credits
 
