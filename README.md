@@ -1,9 +1,9 @@
 # Digits
 
-Implements a sample address book.
+Implementation of a sample simple address book.
 
 # Usage
-Invoke the application for the first time using:
+To invoke the application for the first, use this in terminal:
 
 ```
 meteor --settings ../config/settings.development.json
@@ -17,14 +17,14 @@ meteor --settings ../config/settings.production.json
 
 The settings files will set up the user accounts.
 
-# Application screenshots
-
+# Application Screenshots
+[Note: May need to adjust screen resolution to see clearly. High resolution settings for best results]
 The home page for the application looks like this:
 
-![](https://raw.githubusercontent.com/j/taylor9/master/doc/ListContacts.PNG)
+![](https://github.com/jtaylor9/Digits/blob/master/doc/ListContacts.png)
 
 To list all of the contacts, login and then go to the List Contacts page:
-![](https://raw.githubusercontent.com/jtaylor9/Digits/master/doc/ListContacts.PNG)
+![](https://github.com/jtaylor9/Digits/blob/master/doc/ListContacts.png)
 
 To add a contact, go to the Add Contacts page:
 ![](https://github.com/jtaylor9/Digits/blob/master/doc/AddContact.png)
