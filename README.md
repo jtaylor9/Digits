@@ -1,6 +1,6 @@
 # Digits
 
-Implementation of a sample simple address book.
+Implementation of a simple address book.
 
 # Usage
 To invoke the application for the first, use this in terminal:
