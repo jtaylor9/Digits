@@ -27,7 +27,7 @@ To list all of the contacts, login and then go to the List Contacts page:
 ![](https://raw.githubusercontent.com/jtaylor9/Digits/master/doc/ListContacts.PNG)
 
 To add a contact, go to the Add Contacts page:
-![](https://raw.githubusercontent.com/jtaylor9/Digits/master/doc/AddContact.PNG)
+![](https://github.com/jtaylor9/Digits/blob/master/doc/AddContact.png)
 
 # Credits
 
